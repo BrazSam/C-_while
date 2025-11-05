@@ -1,7 +1,3 @@
-perfeito 😎 aqui vai o **prompt completinho**, prontinho pra colar no teu README do GitHub — já formatado, bonito e sem bug:
-
----
-
 ```markdown
 # 🔁 Exercício com Estruturas de Repetição em C++
 
